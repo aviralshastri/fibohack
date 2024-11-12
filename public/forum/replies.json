@@ -1,0 +1,45 @@
+{
+  "fdas321": [
+    {
+      "id": "reply1",
+      "content": "Using mulch in your garden can significantly reduce water evaporation from the soil.",
+      "name": "Aditya Singh",
+      "Sub-replies": [
+        {
+          "id": "subreply1",
+          "content": "Thank You",
+          "name": "Ok"
+        }
+      ]
+    },
+    {
+      "id": "reply2",
+      "content": "Consider installing a drip irrigation system. It's more efficient than traditional sprinklers.",
+      "name": "Aditya Jain",
+      "Sub-replies": [
+        {
+          "id": "subreply1",
+          "content": "Thank You",
+          "name": "Avinash Pratap"
+        },
+        {
+          "id": "subreply2",
+          "content": "Your welcome",
+          "name": "Aditya Jain"
+        }
+      ]
+    },
+    {
+      "id": "reply3",
+      "content": "Using mulch in your garden can significantly reduce water evaporation from the soil.",
+      "name": "Aditya Singh"
+    }
+  ],
+  "fdas4312": [
+    {
+      "id": "reply3",
+      "content": "Low-flow showerheads can save a significant amount of water without compromising shower quality.",
+      "name": "Same Question"
+    }
+  ]
+}
