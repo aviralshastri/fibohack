@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# JAL JAGRAN 💧 
+*A Comprehensive Platform for Tackling Water Scarcity and Promoting Conservation*
 
-## Getting Started
+## About the Project
+**JAL JAGRAN** is an all-in-one platform designed to raise awareness and provide actionable tools for addressing water scarcity. Our app offers a range of tools and resources aimed at helping users conserve water, understand their water footprint, and make more informed choices for a sustainable future. From visualizing global water scarcity to providing individual water usage calculators, JAL JAGRAN empowers individuals, farmers, and communities with the knowledge to make a positive impact on our water resources.
 
-First, run the development server:
+## Features and Tools
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 1. Water Scarcity Map
+   - Visualizes global water scarcity levels across different regions.
+   - Helps users understand the impacts of water shortages on ecosystems and communities worldwide.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Water Footprint Calculator
+   - Calculates individual household water consumption for specific foods.
+   - Compares similar foods, showing water usage differences to encourage sustainable food choices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Water Irrigation Calculator
+   - Assists farmers in calculating water needs for specific crops and soil types.
+   - Suggests alternative irrigation techniques to reduce water usage for various crops.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 4. Water Consumption Calculator
+   - Provides insights into daily household water usage across activities like bathing, laundering, and gardening.
+   - Displays comparison charts illustrating water savings achieved with different conservation techniques (e.g., using water-saving showers).
 
-## Learn More
+### 5. Weather Rainwater Calculator
+   - Estimates potential rainwater harvest based on location and roof area.
+   - Uses a weather API to calculate the irrigation potential in the past hour based on local rainfall data.
 
-To learn more about Next.js, take a look at the following resources:
+### 6. Chatbot
+   - Offers real-time tips, tricks, and guidance on water conservation and scarcity issues.
+   - Answers user queries related to water-saving practices and efficient usage methods.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 7. Tutorials
+   - Provides video tutorials on various water conservation techniques.
+   - Offers visual and instructional guidance to encourage users to implement water-saving practices.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 8. Guides
+   - Written guides offering detailed tips and tricks on water conservation.
+   - Comprehensive information for users seeking to adopt sustainable practices in their daily routines.
 
-## Deploy on Vercel
+### 9. Articles
+   - Access to articles written by water conservation specialists.
+   - Insightful information on effective ways to conserve water and understand the challenges of water scarcity.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 10. Community Forum
+   - A space for users to connect, share tips, and discuss real-life water-saving examples.
+   - Promotes a community-driven approach to water conservation through shared experiences and support.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Usage Examples
+- **Visualizing Water Scarcity:** Use the **Water Scarcity Map** to see how water shortages affect specific regions.
+- **Calculating Water Usage for Foods:** Use the **Water Footprint Calculator** to understand the water impact of your food choices.
+- **Saving Water in Farming:** Farmers can use the **Water Irrigation Calculator** to find the best irrigation techniques for conserving water.
+
+## Built With
+- **Frontend:** NextJs
+- **Backend:** Go lang and Python
+- **APIs:** Leaflet and Google Maps API for mapping scarcity area, Weather API for rainwater harvesting potential
+- **Database:** MySQL and Firebase
+  
